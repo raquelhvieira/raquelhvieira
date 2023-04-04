@@ -2,7 +2,7 @@
 
 ### Biografia
 
-Fonoaudióloga há quase 10 anos, e buscando uma transição de carreira! Pequenos passos nessa nova caminhada, e muito feliz!
+Fonoaudióloga há quase 10 anos, iniciando curso de desenvolvimento de sistemas, e buscando uma transição de carreira! Dando pequenos passos nessa nova caminhada, e muito feliz!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelhvieira&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +11,7 @@ Fonoaudióloga há quase 10 anos, e buscando uma transição de carreira! Pequen
 ### Projetos
 #### No momento meu projeto princial é:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raquelhvieira&theme=tokyonight&repo=raquelhvieira.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raquelhvieira&theme=tokyonight&repo=Tik-Tok-Project)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
